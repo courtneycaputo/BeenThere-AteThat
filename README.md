@@ -14,7 +14,7 @@
 ## Description: <a name="description"></a>
 This application can be used to share restaurants you have been to or want to go to with friends. You can add new restaurants, upload pictures, create comments to share your experience, and mark restaurants as "been there".  
 
-Deployed application link: <a href="">Been There</a>
+Deployed application link: <a href="https://beenthereatethat.herokuapp.com/">Been There</a>
 
 ## Build With
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
